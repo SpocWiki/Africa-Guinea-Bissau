@@ -108,8 +108,8 @@ id: Guinea-Bissau
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guinea-Bissau//
-markerFolder: ./Guinea-Bissau//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Guinea-Bissau] 
