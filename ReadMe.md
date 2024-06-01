@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GNB
 - Guinea-Bissau
 - Guinée-Bissau
 - غينيا - بيساو
