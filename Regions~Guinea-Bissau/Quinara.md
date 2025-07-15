@@ -40,11 +40,18 @@ markerFolder: ./Quinara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara|Quinara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.public|Quinara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.internal|Quinara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.protect|Quinara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.private|Quinara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.personal|Quinara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Quinara.secret|Quinara.secret]] 
+
+### #is_/same_as :: [Quinara](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.md) 
+
+### #is_/same_as :: [Quinara.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.public.md) 
+
+### #is_/same_as :: [Quinara.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.internal.md) 
+
+### #is_/same_as :: [Quinara.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.protect.md) 
+
+### #is_/same_as :: [Quinara.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.private.md) 
+
+### #is_/same_as :: [Quinara.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.personal.md) 
+
+### #is_/same_as :: [Quinara.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Quinara.secret.md)
 

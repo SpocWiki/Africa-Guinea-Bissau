@@ -40,11 +40,18 @@ markerFolder: ./Bafatá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá|Bafatá]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.public|Bafatá.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.internal|Bafatá.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.protect|Bafatá.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.private|Bafatá.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.personal|Bafatá.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.secret|Bafatá.secret]] 
+
+### #is_/same_as :: [Bafatá](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.md) 
+
+### #is_/same_as :: [Bafatá.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.public.md) 
+
+### #is_/same_as :: [Bafatá.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.internal.md) 
+
+### #is_/same_as :: [Bafatá.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.protect.md) 
+
+### #is_/same_as :: [Bafatá.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.private.md) 
+
+### #is_/same_as :: [Bafatá.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.personal.md) 
+
+### #is_/same_as :: [Bafatá.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bafatá.secret.md)
 

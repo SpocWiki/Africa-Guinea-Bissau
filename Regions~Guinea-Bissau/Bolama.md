@@ -40,11 +40,18 @@ markerFolder: ./Bolama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama|Bolama]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.public|Bolama.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.internal|Bolama.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.protect|Bolama.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.private|Bolama.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.personal|Bolama.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bolama.secret|Bolama.secret]] 
+
+### #is_/same_as :: [Bolama](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.md) 
+
+### #is_/same_as :: [Bolama.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.public.md) 
+
+### #is_/same_as :: [Bolama.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.internal.md) 
+
+### #is_/same_as :: [Bolama.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.protect.md) 
+
+### #is_/same_as :: [Bolama.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.private.md) 
+
+### #is_/same_as :: [Bolama.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.personal.md) 
+
+### #is_/same_as :: [Bolama.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bolama.secret.md)
 

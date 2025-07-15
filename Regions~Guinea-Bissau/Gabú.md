@@ -40,11 +40,18 @@ markerFolder: ./Gabú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú|Gabú]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.public|Gabú.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.internal|Gabú.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.protect|Gabú.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.private|Gabú.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.personal|Gabú.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Gabú.secret|Gabú.secret]] 
+
+### #is_/same_as :: [Gabú](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.md) 
+
+### #is_/same_as :: [Gabú.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.public.md) 
+
+### #is_/same_as :: [Gabú.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.internal.md) 
+
+### #is_/same_as :: [Gabú.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.protect.md) 
+
+### #is_/same_as :: [Gabú.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.private.md) 
+
+### #is_/same_as :: [Gabú.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.personal.md) 
+
+### #is_/same_as :: [Gabú.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Gabú.secret.md)
 

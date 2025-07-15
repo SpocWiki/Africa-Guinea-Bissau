@@ -40,11 +40,18 @@ markerFolder: ./Cacheu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu|Cacheu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.public|Cacheu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.internal|Cacheu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.protect|Cacheu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.private|Cacheu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.personal|Cacheu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Cacheu.secret|Cacheu.secret]] 
+
+### #is_/same_as :: [Cacheu](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.md) 
+
+### #is_/same_as :: [Cacheu.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.public.md) 
+
+### #is_/same_as :: [Cacheu.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.internal.md) 
+
+### #is_/same_as :: [Cacheu.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.protect.md) 
+
+### #is_/same_as :: [Cacheu.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.private.md) 
+
+### #is_/same_as :: [Cacheu.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.personal.md) 
+
+### #is_/same_as :: [Cacheu.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Cacheu.secret.md)
 

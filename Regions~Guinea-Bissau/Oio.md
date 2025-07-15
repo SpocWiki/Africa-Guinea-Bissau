@@ -39,11 +39,18 @@ markerFolder: ./Oio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Oio|Oio]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.public|Oio.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.internal|Oio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.protect|Oio.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.private|Oio.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.personal|Oio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.secret|Oio.secret]] 
+
+### #is_/same_as :: [Oio](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.md) 
+
+### #is_/same_as :: [Oio.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.public.md) 
+
+### #is_/same_as :: [Oio.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.internal.md) 
+
+### #is_/same_as :: [Oio.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.protect.md) 
+
+### #is_/same_as :: [Oio.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.private.md) 
+
+### #is_/same_as :: [Oio.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.personal.md) 
+
+### #is_/same_as :: [Oio.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Oio.secret.md)
 
