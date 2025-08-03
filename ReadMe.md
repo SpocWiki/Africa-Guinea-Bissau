@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::28120] 
 Continent :: [[Africa]]  
 [VehicleCode::GUB] 
-Capital :: [[Bissau]]  
+Capital :: [[Regions~Guinea-Bissau/Bissau]]  
 
 ![[Emblem_of_Guinea-bissau.svg|350]] 
 
