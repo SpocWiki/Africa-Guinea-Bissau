@@ -1,36 +1,37 @@
 ---
 location:
-- 11.8667
-- -15.6
+  - 11.8667
+  - -15.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26914
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Guinea-Bissau
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Guinea-Bissau
-- Guinée-Bissau
-- غينيا - بيساو
-- 几内亚比绍
-- Гвинея-Бисау
-- the Republic of Guinea-Bissau
-- la República de Guinea-Bissau
+  - Guinea-Bissau
+  - Guinée-Bissau
+  - غينيا - بيساو
+  - 几内亚比绍
+  - Гвинея-Бисау
+  - the Republic of Guinea-Bissau
+  - la República de Guinea-Bissau
 Languages:
-- pt-GW
-- pov
+  - pt-GW
+  - pov
 ---
 
 
