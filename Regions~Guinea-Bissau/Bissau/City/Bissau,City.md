@@ -49,17 +49,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bissau,City](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City|Bissau,City]] 
 
-### #is_/same_as :: [Bissau,City.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.public|Bissau,City.public]] 
 
-### #is_/same_as :: [Bissau,City.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.internal|Bissau,City.internal]] 
 
-### #is_/same_as :: [Bissau,City.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.protect|Bissau,City.protect]] 
 
-### #is_/same_as :: [Bissau,City.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.private|Bissau,City.private]] 
 
-### #is_/same_as :: [Bissau,City.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.personal|Bissau,City.personal]] 
 
-### #is_/same_as :: [Bissau,City.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau/Regions~Guinea-Bissau/Bissau/City/Bissau,City.secret|Bissau,City.secret]] 
 
